@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Nomoo0603/Nomoo0603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fullstack developer
+🔒 Interested in cryptography and security overall (Encryption, ECC, Postquantum, FAPI)
 
-Here are some ideas to get you started:
+🌐 I'm looking to contribute to Open Source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Connect with me
+LinkedIn Instagram
+
+Certifications
+AWS Certified Cloud Practicioner
+
+Languages and tools/frameworks
 -->
