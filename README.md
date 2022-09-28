@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm fullstack developer
 🔒 Interested in cryptography and security overall (Encryption, ECC, Postquantum, FAPI)
 
@@ -13,4 +12,3 @@ Certifications
 AWS Certified Cloud Practicioner
 
 Languages and tools/frameworks
--->
