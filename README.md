@@ -1,4 +1,4 @@
-# 👨‍💻♂ Nomon-Erdene Lkhagvajav
+# 👨‍💻 Nomon-Erdene Lkhagvajav
 
 **`Machine Learning Enthusiast (Full stack/DL research/Cryptography)`**
 
