@@ -1,6 +1,6 @@
-# 🏄‍♂️ Nomon-Erdene Lkhagvajav
+# 👨‍💻♂ Nomon-Erdene Lkhagvajav
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Machine Learning Enthusiast (Full stack/DL research/Cryptography)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
@@ -54,11 +54,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
